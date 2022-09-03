@@ -122,7 +122,7 @@ cout<<endl<<endl;
         cout<<"==>\aGame draw,please try again ";
     return 0;
 }
-void display()                                                       //FUNCTION TO DRAW board OF TIC TAC TOE WITH PLAYERS MARK1
+void display()                                                       //FUNCTION TO DRAW board OF TIC TAC TOE WITH PLAYERS MARK
 {
     cout << "\n\n\tTic Tac Toe\n\n";
 
